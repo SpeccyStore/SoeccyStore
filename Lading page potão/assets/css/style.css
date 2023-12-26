@@ -36,3 +36,11 @@ footer p {
 .preco{
     font-size: 30px;
 }
+
+.card-img-top:hover{
+    transform: scale(1.2);
+}
+
+img {
+    transition: transform 0.5s;
+  }
