@@ -1,0 +1,38 @@
+.card{
+    margin: 1%;
+}
+
+
+
+main {
+    background-image:url("Fundo.png") ;
+}
+
+body {
+    background-image:url("Fundo.png") ;
+}
+
+footer {
+    background-image:url("Fundo.png") ;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Estilo adicional para destacar o texto de direitos autorais */
+footer p {
+    font-weight: bold;
+}
+
+.preco{
+    font-size: 30px;
+}
